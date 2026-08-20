@@ -1,0 +1,7 @@
+node_modules/
+dist/
+server/heritage.db
+server/heritage.db-shm
+server/heritage.db-wal
+server/.env
+*.log
